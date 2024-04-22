@@ -3,7 +3,7 @@
 // For you to access any api you need to have an access token first.
 // So this is the first step to take and consider.
 
-
+// Your mpesa api keys
 $consumer_key= 'MF2gqv72iqwfqRWQepM3RGyo18RDevSCNtCeIHVAfwflWVt2' ;
 $consumer_secret= '3X6udbqG1fMhMpIAUDsvsGJ7d795DwLbpkf8IOYqCFcAAcEjiDinjQoPhAXPhBgH' ;
 
