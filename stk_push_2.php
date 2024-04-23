@@ -1,6 +1,6 @@
 <?php
-$phone = "254768168060";
-$money = '1';
+$phone = "254745599380";
+$money = '20';
 
 date_default_timezone_set('Africa/Nairobi');
 
@@ -11,9 +11,9 @@ $BusinessShortCode = 'PASTE YOUR PAYBILL HERE';
 $Passkey = 'd0FOdHdja2NudERTU2VSN1E2VjN3Yzh6UW5maTVmU0Q6WEtSejdNeGlpQ1dSSXowYg';
 
 $PartyA = $phone; // This is your phone number, 
-$PartyB = '254708374149'; //This os the sane as business short code
-$AccountReference = 'UMESKIA SOFTWARES';
-$TransactionDesc = 'Please cornfirm payment made to UMESKIA SOFTWARES.';
+$PartyB = '254759543493'; //This is the same as business short code
+$AccountReference = 'QUICK DEALERS';
+$TransactionDesc = 'Please cornfirm payment made to QUICK DEALERS.';
 $Amount = $money;
 
 # Get the timestamp, format YYYYmmddhms -> 20181004151020
