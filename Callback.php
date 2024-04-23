@@ -9,6 +9,8 @@ fclose($log);
 
 $data = json_decode($stkCallbackResponse);
 
+# decoding the json file to able to read and store in the database.
+# The following variables will be stored in database 
 $MerchantRequestID = $data->Body->stkCallback->MerchantRequestID;
 $CheckoutRequestID = $data->Body->stkCallback->CheckoutRequestID;
 $ResultCode = $data->Body->stkCallback->ResultCode;
