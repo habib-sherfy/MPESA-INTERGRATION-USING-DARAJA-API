@@ -4,6 +4,15 @@ This repos shows how you can intergrate mpesa to your app or website using safar
 ## What is M-Pesa Daraja API?
 M-Pesa Daraja API is a powerful tool provided by Safaricom, Kenya's leading mobile network operator. It allows developers to interact with M-Pesa's mobile payment platform, enabling seamless transactions, account management, and other financial services.
 
+
+![2024-04-24 (1)](https://github.com/habib-sherfy/MPESA-INTERGRATION-USING-DARAJA-API/assets/161951351/6fcb715f-7c9c-4335-9d35-5beda48c59a0)
+
+![2024-04-24 (2)](https://github.com/habib-sherfy/MPESA-INTERGRATION-USING-DARAJA-API/assets/161951351/d66f37fd-fcc6-47f3-9f52-dba60aac7505)
+
+![2024-04-24 (3)](https://github.com/habib-sherfy/MPESA-INTERGRATION-USING-DARAJA-API/assets/161951351/09dfbe09-1e03-4134-adda-8731e9bfe74d)
+
+![2024-04-24](https://github.com/habib-sherfy/MPESA-INTERGRATION-USING-DARAJA-API/assets/161951351/02df5844-7311-4efd-8209-882792c4c65f)
+
 ## Getting Started
 - To get started with this project, follow these simple steps:
 
