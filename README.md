@@ -22,10 +22,10 @@ For detailed documentation on the M-Pesa Daraja API and its various endpoints, p
 
 
 ## Author Personal Details
-Author: Shafi Noor
-Description: Mpesa Daraja API with PHP 
-Date: 14/04/2024 
-Github Link: https://github.com/habib-sherfy/ 
-Website: www.sherfydev.com 
-Email: shafynoor82@gmail.com 
-Phone: +254745599380
+- Author: Shafi Noor
+- Description: Mpesa Daraja API with PHP 
+- Date: 14/04/2024 
+- Github Link: https://github.com/habib-sherfy/ 
+- Website: www.sherfydev.com 
+- Email: shafynoor82@gmail.com 
+- Phone: +254745599380
