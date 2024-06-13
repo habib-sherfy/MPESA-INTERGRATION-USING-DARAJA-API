@@ -8,7 +8,7 @@ date_default_timezone_set('Africa/Nairobi');
 $consumerKey = 'PASTE YOUR CONSUMER KEY HERE';
 $consumerSecret = 'PASTE YOUR SECRET KEY HERE';
 $BusinessShortCode = 'PASTE YOUR PAYBILL HERE';
-$Passkey = 'd0FOdHdja2NudERTU2VSN1E2VjN3Yzh6UW5maTVmU0Q6WEtSejdNeGlpQ1dSSXowYg';
+$Passkey = 'ENTER YOUR PASSKEY';
 
 $PartyA = $phone; // This is your phone number, 
 $PartyB = '254759543493'; //This is the same as business short code
